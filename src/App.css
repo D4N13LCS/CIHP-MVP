@@ -1,0 +1,22 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-color: rgb(92, 32, 208);
+}
+
+h1{
+  color: white;
+}
+
+.causaStyle{
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
