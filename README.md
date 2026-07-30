@@ -40,49 +40,33 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Back
 
 <h2>🛠️ Tech Stack</h2>
 
-<table  width="100%">
-<tr>
-<td>
-
 <pre>
-<span style="color:#46C7D7;">D4N13LCS@github</span>:~$ cat skills.yml
+🔴 🟡 🟢
 
-<span style="color:#7FB7C8;">backend:</span>
+────────────────────────────────────────────────────
+
+D4N13LCS@github:~$ profile --core-stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark"/>
+
+D4N13LCS@github:~$ profile --backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django&theme=dark"/>
+
+D4N13LCS@github:~$ profile --frontend
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark"/>
+
+D4N13LCS@github:~$ profile --database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+D4N13LCS@github:~$ profile --tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea&theme=dark"/>
+<img src="./assets/LogoPowerBI.svg" height="48"/>
+
+────────────────────────────────────────────────────
+
+D4N13LCS@github:~$ █
 </pre>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark"/>
-</p>
-
-<pre>
-<span style="color:#7FB7C8;">frontend:</span>
-</pre>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark"/>
-</p>
-
-<pre>
-<span style="color:#7FB7C8;">database:</span>
-</pre>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo&theme=dark"/>
-</p>
-
-<pre>
-<span style="color:#7FB7C8;">tools:</span>
-</pre>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,python,django&theme=dark"/>
-  <img src="./assets/LogoPowerBI.svg" height="48" alt="Power BI"/>
-</p>
-
-<pre>
-<span style="color:#46C7D7;">D4N13LCS@github</span>:~$ _
-</pre>
-
-</td>
-</tr>
-</table>
