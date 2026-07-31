@@ -286,3 +286,57 @@ Repository →
 </div>
 
 </div>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
+</p>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+Minha atividade e evolução durante a jornada de desenvolvimento.
+</p>
+
+<br>
+
+## 📈 Contribution Overview
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D4N13LCS&theme=nord_dark"/>
+
+</p>
+
+<br>
+
+## 📊 Development Statistics
+
+<div align="center">
+
+<img width="80%"
+src="https://github-readme-streak-stats.herokuapp.com?user=D4N13LCS&theme=transparent&hide_border=true&stroke=46C7D7&ring=46C7D7&fire=46C7D7&currStreakLabel=D9F9FF&sideLabels=D9F9FF&currStreakNum=D9F9FF&sideNums=D9F9FF&dates=7FB7C8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D4N13LCS&layout=compact&hide_border=true&bg_color=0D1117&title_color=46C7D7&text_color=D9F9FF"/>
+
+</div>
+
+<br>
+
+## ⏰ Coding Activity
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D4N13LCS&theme=nord_dark&utcOffset=-3"/>
+
+</p>
