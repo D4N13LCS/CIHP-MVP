@@ -70,3 +70,219 @@ D4N13LCS@github:~$ profile --tools
 
 D4N13LCS@github:~$ █
 </pre>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:063C44,100:46C7D7"/>
+</p>
+
+# 🚀 Projects
+
+<p align="center">
+Projetos desenvolvidos durante minha graduação e estudos pessoais.
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="100%">
+
+<img src="./assets/lumorq.png" width="90%" />
+
+<br>
+
+<h2>☕ Lumorq</h2>
+
+<p>
+API REST para gerenciamento financeiro desenvolvida utilizando
+<strong>Java, Spring Boot, Spring Security, JWT e MySQL.</strong>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-063C44?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1D7581?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-063C44?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-46C7D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-063C44?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/D4N13LCS/Lumorq">
+Repository →
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+<br><br>
+
+
+<br>
+
+<h3 align="center">
+  More Projects
+</h3>
+
+<br>
+
+<div align="center">
+
+<div style="
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+">
+
+<!-- Even4U -->
+
+<div style="
+border:1px solid #263238;
+border-radius:10px;
+padding:20px;
+width:320px;
+min-height:330px;
+">
+
+<div align="center">
+
+<img 
+src="./assets/even4u.png"
+width="100%"
+style="border-radius:8px;"
+/>
+
+<h3>🌐 Even4U</h3>
+
+<p>
+Sistema Full Stack para gerenciamento de eventos.
+</p>
+
+<img src="https://img.shields.io/badge/Node.js-063C44?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-1D7581?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/React-46C7D7?style=flat-square&logo=react&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/D4N13LCS/Even4U">
+Repository →
+</a>
+
+</div>
+
+</div>
+
+
+
+<!-- Projeto Django -->
+
+<div style="
+border:1px solid #263238;
+border-radius:10px;
+padding:20px;
+width:320px;
+min-height:330px;
+">
+
+<div align="center">
+
+<img 
+src="./assets/projetodjango.png"
+width="100%"
+style="border-radius:8px;"
+/>
+
+
+<h3>🐍 Projeto Django</h3>
+
+<p>
+Aplicação Web desenvolvida utilizando Django.
+</p>
+
+
+<img src="https://img.shields.io/badge/Python-063C44?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-1D7581?style=flat-square&logo=django&logoColor=white"/>
+
+
+<br><br>
+
+
+<a href="https://github.com/D4N13LCS/ProjetoDjango">
+Repository →
+</a>
+
+
+</div>
+
+</div>
+
+
+
+<!-- TTKPython -->
+
+
+<div style="
+border:1px solid #263238;
+border-radius:10px;
+padding:20px;
+width:320px;
+min-height:330px;
+">
+
+
+<div align="center">
+
+
+<img 
+src="./assets/ttkpython.png"
+width="100%"
+style="border-radius:8px;"
+/>
+
+
+<h3>🖥️ TTKPython</h3>
+
+
+<p>
+Aplicação Desktop desenvolvida com Python e Tkinter.
+</p>
+
+
+<img src="https://img.shields.io/badge/Python-063C44?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tkinter-1D7581?style=flat-square"/>
+
+
+<br><br>
+
+
+<a href="https://github.com/D4N13LCS/TTKpython">
+Repository →
+</a>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+</div>
+
+</div>
